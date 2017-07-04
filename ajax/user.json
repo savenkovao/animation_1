@@ -1,0 +1,14 @@
+[
+	{
+		"name"	  : "Artem",
+		"surname" : "Savienkov",
+		"age" 		: "24",
+		"sex"		  : "male"
+	},
+	{
+		"name"	  : "Petro",
+		"surname" : "Ivanov",
+		"age" 		: "34",
+		"sex"		  : "male"
+	}
+]
